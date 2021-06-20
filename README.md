@@ -6,6 +6,7 @@
 about me:
 
 - ✔ I have completed my graduation in BSc mathematics at Chinmaya Mission College in 2020 .
+- 
 
 - 🌱 I’m currently learning DATA ANALYTICS course.
 - 
