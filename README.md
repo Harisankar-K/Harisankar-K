@@ -1,8 +1,18 @@
 - 👋 Hi, I’m @Harisankar-K
-- 👀 I’m interested in data analytics...
-- 🌱 I’m currently learning data science...
-- 💞️ I’m looking to collaborate on  project...
-- 📫 How to reach me harisankark2916@gmail.com..
+- welcome to my Github page...
+- 
+- 👀 visualize my profile :
+
+about me:
+
+- ✔ I have completed my graduation in BSc mathematics at Chinmaya Mission College in 2020 .
+
+- 🌱 I’m currently learning DATA ANALYTICS course.
+- 
+- 💞️ I’m looking to collaborate on Data analyst project.
+- 
+- 📫 How to reach me :
+-          GMAIL:  harisankark2916@gmail.com
 
 <!---
 Harisankar-K/Harisankar-K is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
